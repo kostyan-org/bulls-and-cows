@@ -1,4 +1,9 @@
 # Simple console game "Bulls And Cows"
+[![Version](http://poser.pugx.org/kostyan-org/bulls-and-cows/version)](https://packagist.org/packages/kostyan-org/bulls-and-cows)
+[![Total Downloads](http://poser.pugx.org/kostyan-org/bulls-and-cows/downloads)](https://packagist.org/packages/kostyan-org/bulls-and-cows)
+[![License](http://poser.pugx.org/kostyan-org/bulls-and-cows/license)](https://packagist.org/packages/kostyan-org/bulls-and-cows)
+[![PHP Version Require](http://poser.pugx.org/kostyan-org/bulls-and-cows/require/php)](https://packagist.org/packages/kostyan-org/bulls-and-cows)
+
 
 At the moment the game has 3 modes
 
