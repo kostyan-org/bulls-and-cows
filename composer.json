@@ -1,22 +1,27 @@
 {
     "name": "kostyan-org/bulls-and-cows",
     "description": "Simple console game \"Bulls And Cows\" written in PHP",
+    "keywords": ["game","bulls", "cows", "cli", "console"],
+    "homepage": "https://github.com/kostyan-org/bulls-and-cows",
+    "minimum-stability": "stable",
     "type": "project",
-
+    "readme": "README.md",
     "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Konstantin P",
+            "email": "mail@kostyan.org",
+            "role": "Developer"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "KostyanOrg\\BullsAndCows\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "Konstantin P",
-            "email": "me@kostyan.org"
-        }
-    ],
-    "minimum-stability": "stable",
-    "require": {},
+    "require": {
+        "php": ">=7.4.27"
+    },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     }
