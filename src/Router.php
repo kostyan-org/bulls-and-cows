@@ -92,6 +92,7 @@ final class Router
 
         State::WINNER => [
             State::WINNER,
+            State::RULES,
             State::WELLCOME,
             State::EXIT,
             State::EXCEPTION,

@@ -441,7 +441,7 @@ final class Game
                         ));
 
                         $input = $this->getInput();
-                        Router::go(State::WELLCOME);
+                        Router::go($input);
                         break;
 
                     case State::EXCEPTION:
