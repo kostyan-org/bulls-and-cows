@@ -2,7 +2,7 @@
     "name": "kostyan-org/bulls-and-cows",
     "description": "Simple console game \"Bulls And Cows\" written in PHP",
     "keywords": ["game","bulls", "cows", "cli", "console"],
-    "homepage": "https://github.com/kostyan-org/bulls-and-cows",
+    "homepage": "https://kostyan-org.github.io/bulls-and-cows",
     "minimum-stability": "stable",
     "type": "project",
     "readme": "README.md",
