@@ -4,6 +4,9 @@
 [![License](http://poser.pugx.org/kostyan-org/bulls-and-cows/license)](https://packagist.org/packages/kostyan-org/bulls-and-cows)
 [![PHP Version Require](http://poser.pugx.org/kostyan-org/bulls-and-cows/require/php)](https://packagist.org/packages/kostyan-org/bulls-and-cows)
 
+![Image](https://github.com/kostyan-org/bulls-and-cows/raw/gh-pages/Bulls%20and%20cows.PNG)
+
+[Home page](https://kostyan-org.github.io/bulls-and-cows)
 
 At the moment the game has 3 modes
 
